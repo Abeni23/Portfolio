@@ -15,12 +15,7 @@ export function Footer() {
         <div className="flex flex-col sm:flex-row items-center justify-between gap-6">
           {/* Left: built-with + copyright */}
           <div className="flex flex-col items-center sm:items-start gap-1 text-sm text-[var(--color-muted)]">
-            <span>
-              Built with{" "}
-              <span className="text-[var(--color-muted-foreground)]">
-                React, TypeScript & Tailwind CSS
-              </span>
-            </span>
+
             <span>© {currentYear} Abenezer Mengesha</span>
           </div>
 

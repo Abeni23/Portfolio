@@ -158,7 +158,7 @@ export const projects: Project[] = [
     description:
       "A fullstack car rental platform where users can browse a curated fleet of vehicles, check real-time availability, and complete bookings seamlessly. The app features an intuitive search-and-filter interface, a responsive booking flow, and a clean dashboard for managing reservations — all powered by a type-safe TypeScript codebase from frontend to backend.",
     techStack: ["TypeScript", "React", "Node.js", "Express.js", "PostgreSQL"],
-    githubUrl: "https://github.com/USERNAME/gasha-drift",
+    githubUrl: "https://github.com/Abeni23/Gasha-Drift-Car-Rental",
     // liveUrl: "https://gasha-drift.vercel.app",  // uncomment when deployed
     image: "/project-gasha-drift.webp",
   },
